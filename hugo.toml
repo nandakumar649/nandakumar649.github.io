@@ -1,0 +1,44 @@
+baseURL = 'https://nandakumar649.github.io'
+languageCode = 'en-gb'
+title = 'Nandakumar Balasubramaniyam'
+theme = "hugo-theme-m10c"
+author = 'Nandakumar Balasubramaniyam'
+description = 'Profile Page'
+avatar = 'avatar.png'
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 3
+
+[params]
+  # Author
+  author = "Nandakumar Balasubramaniyam"
+  # Description
+  description = "Highly experienced Engineer with a decade of experience in analysing, designing, developing, and managing applications."
+  avatar = 'avatar.png'
+  # Social links
+  [[params.social]]
+    icon = "brand-github"
+    name = "My Github"
+    url = "https://github.com/nandakumar649"
+  [[params.social]]
+    icon = "brand-x"
+    name = "X"
+    url = "https://x.com/nandakumar649"
+  [[params.social]]
+    icon = "brand-linkedin"
+    name = "LinkedIn"
+    url = "https://www.linkedin.com/in/nandakumar649/"
