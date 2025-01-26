@@ -1,9 +1,8 @@
 +++
-title = 'resume'
+title = 'Profile'
 date = 2024-01-14T07:07:07+01:00
 +++
 
-## Profile
 Highly experienced Senior Cloud Engineer with over ten years of experience in analysing, designing, developing, and managing applications. Excellent reputation for resolving problems and improving customer satisfaction. Adept in carefully diagnosing and assessing issues, and offering real viable solutions using AWS, Microsoft Azure and middle-ware technologies (IBM ACE, IBM MQ).
 
 ## Employment History
