@@ -1,8 +1,8 @@
 baseURL = 'https://nandakumar649.github.io'
 languageCode = 'en-gb'
-title = 'Nandakumar Balasubramaniyam'
+title = "Nanda Bala"
 theme = "hugo-theme-m10c"
-author = 'Nandakumar Balasubramaniyam'
+author = "Nanda Bala"
 description = 'Profile Page'
 avatar = 'avatar.png'
 
