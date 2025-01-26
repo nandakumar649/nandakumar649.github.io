@@ -3,54 +3,43 @@ title = 'resume'
 date = 2024-01-14T07:07:07+01:00
 +++
 
-I am a seasoned professional with extensive experience in DevOps, cloud engineering, and integration solutions. My career includes successful projects and roles at prestigious organizations such as Sainsbury's Supermarkets and TATA Consultancy Services. I have a proven track record of developing and implementing strategies that enhance the speed, reliability, and cost-effectiveness of application deployments and cloud migrations.
+## Profile
+Highly experienced Senior Cloud Engineer with over ten years of experience in analysing, designing, developing, and managing applications. Excellent reputation for resolving problems and improving customer satisfaction. Adept in carefully diagnosing and assessing issues, and offering real viable solutions using AWS, Microsoft Azure and middle-ware technologies (IBM ACE, IBM MQ).
 
-In my current role as a Senior Engineer at Sainsbury's Supermarkets, I have led the transformation of legacy application infrastructure and implemented automation processes that significantly reduced manual tasks. My expertise in migrating Jenkins code to GitHub Actions has resulted in substantial cost savings for the organization.
+## Employment History
 
-Previously, as a Senior DevOps Engineer at TATA Consultancy Services, I delivered integration solutions on Microsoft Azure, managed containerized platforms, and created Azure infrastructure components using Terraform and Jenkins. My hands-on experience with Docker containerization and Kubernetes has been instrumental in driving successful cloud migration projects.
+### Senior Engineer, Sainsbury's Supermarkets, London
+**March 2022 — Present**
+- Developed a DevOps strategy that increased the speed and reliability of application deployment.
+- Transformed the Legacy Application Infrastructure code to adhere to the latest standards and versions.
+- Implemented automation processes that reduced manual tasks by 80%, allowing for faster deployment of new cloud resources.
+- Migrated the Jenkins Code to GitHub Actions to adhere to cost optimization.
+- Created the Infrastructure code from scratch for old Legacy applications.
 
-I hold a diverse skill set that includes AWS, Microsoft Azure, Docker, Kubernetes, GitHub Actions, Jenkins, and more. My certifications in Snowflake further attest to my commitment to continuous learning and professional development.
+### Senior DevOps Engineer, TATA Consultancy Services, London
+**January 2019 — March 2022**
+- Delivered Integration Solutions built on top of Microsoft Technologies Azure (IaaS, PaaS, Hybrid).
+- Worked on end-to-end design for Cloud Migration projects on both IaaS and PaaS Models.
+- Hands-on experience in Docker containerization and Kubernetes.
+- Expertise in CI/CD automation using Jenkins, Terraform, Docker.
+- Migrated on-premise integration workload to Azure cloud.
+- Delivered B2B solutions capability on Azure by building multiple File-Gateway and API patterns on Azure.
+- Managed both Unmanaged and Managed (Kubernetes) containerized platforms.
+- Resourceful on Azure Infra components creation like VNET, SUBNET, NSG, VM, RG, Storage Account, Key-Vault, ILB, etc., using Terraform and Jenkins.
+- Built IBM integration products capability on containerization (Docker Images).
 
-I am confident that my technical acumen, coupled with my strong communication skills and ability to work collaboratively with stakeholders, make me a valuable asset to any organization. I look forward to the opportunity to contribute to your team and drive impactful results.
+### Senior Integration Engineer, TATA Consultancy Services, Chennai
+**March 2017 — January 2019**
+- Presented strategies, specifications for seamless migration from IBM WebSphere Message Broker into IBM Integration Bus Infrastructure.
+- Engaged in automated deployment solution design and implementation based on the problem statement of the client with industry standards.
 
-## Education
+### Integration Designer, TATA Consultancy Services, London
+**July 2015 — February 2017**
+- Anchored deliverables including presentations, function design documents, and Data Object Mapping Documents.
+- Designed and implemented Integration solutions for Automated Warehouse Management and Logistics Movement.
+- Implemented API-based Solution for Stock Management and Replenishment.
 
-**R.M.K Engineering College, Chennai, Tamil Nadu**  
-*April 2008 - April 2012*
-
-- Bachelor of Engineering in Electronics and Communications
-
-## Skills
-
-**Soft Skills**
-
-- Excellent communication skills and confidence in front of an audience.
-- Talent for investigating and researching processes to offer improvements and solutions for the benefit of the organization.
-
-**Technical Skills**
-
-- Amazon Web Services (IaaS, PaaS, Hybrid)
-- Microsoft Azure (IaaS, PaaS, Hybrid)
-- Docker Containerization
-- DevOps
-- Kubernetes
-- GitHub Actions
-- Jenkins
-- Azure Compute, Network, Storage & Disaster Recovery
-- Ansible
-- Agile methodologies
-- IBM App Connect Enterprise
-- IBM WebSphere MQ
-- Mule ESB
-- Bash
-- Snowflake
-- Nexus
-
-## Contact
-
-**Address:** 60 Jefferson House, West Drayton, London, UB7 9FL  
-**Phone number:** +44 7438 867 877  
-**E-mail:** nandakumar649@gmail.com  
-**LinkedIn:** [linkedin.com/in/nandakumar-balasubramaniyam](https://www.linkedin.com/in/nandakumar-balasubramaniyam)  
-**GitHub:** [github.com/nandakumar649](https://github.com/nandakumar649)  
-**Website:** [nandakumar649.github.io](https://nandakumar649.github.io)
+### Integration Developer, TATA Consultancy Services, Chennai
+**October 2012 — July 2015**
+- Designed and developed Integration patterns for on-demand services with Master Data Management systems.
+- Integrated Demand & Fulfilment systems to Store Management Systems to ensure real-time replenishment of products.
