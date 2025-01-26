@@ -5,14 +5,21 @@ theme = "hugo-theme-m10c"
 author = "Nanda Bala"
 description = 'Profile Page'
 avatar = 'avatar.png'
+ignoreLogs = ['warning-goldmark-raw-html']
 
 [menu]
   [[menu.main]]
     identifier = "home"
     name = "Home"
-    icon = "hugo-home"
+    icon = "homepage"
     url = "/"
     weight = 1
+  [[menu.main]]
+    identifier = "profile"
+    name = "Profile"
+    icon = "homepage"
+    url = "/profile"
+    weight = 2
 
 [params]
   # Author

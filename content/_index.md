@@ -1,5 +1,5 @@
 +++
-title = 'About'
+title = 'About Me'
 date = 2024-01-14T07:07:07+01:00
 +++
 
@@ -12,7 +12,7 @@ Previously, as a Senior DevOps Engineer at TATA Consultancy Services, I delivere
 I hold a diverse skill set that includes AWS, Microsoft Azure, Docker, Kubernetes, GitHub Actions, Jenkins, and more. My certifications in Snowflake further attest to my commitment to continuous learning and professional development.
 
 I am confident that my technical acumen, coupled with my strong communication skills and ability to work collaboratively with stakeholders, make me a valuable asset to any organization. I look forward to the opportunity to contribute to your team and drive impactful results.
-
+<!-- 
 ## Education
 
 **R.M.K Engineering College, Chennai, Tamil Nadu**  
@@ -53,4 +53,4 @@ I am confident that my technical acumen, coupled with my strong communication sk
 **E-mail:** nandakumar649@gmail.com  
 **LinkedIn:** [linkedin.com/in/nandakumar-balasubramaniyam](https://www.linkedin.com/in/nandakumar-balasubramaniyam)  
 **GitHub:** [github.com/nandakumar649](https://github.com/nandakumar649)  
-**Website:** [nandakumar649.github.io](https://nandakumar649.github.io)
+**Website:** [nandakumar649.github.io](https://nandakumar649.github.io) -->
