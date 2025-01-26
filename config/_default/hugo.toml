@@ -1,7 +1,7 @@
 baseURL = 'https://nandakumar649.github.io'
 languageCode = 'en-gb'
 title = "Nanda Bala"
-theme = "hugo-coder"
+theme = "hugo-theme-m10c"
 author = "Nanda Bala"
 description = 'Profile Page'
 avatar = 'avatar.png'
