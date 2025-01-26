@@ -131,3 +131,4 @@ dist
 
 # hugo
 .hugo_build.lock
+public/**

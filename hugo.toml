@@ -10,6 +10,7 @@ avatar = 'avatar.png'
   [[menu.main]]
     identifier = "home"
     name = "Home"
+    icon = "hugo-home"
     url = "/"
     weight = 1
 
@@ -17,7 +18,7 @@ avatar = 'avatar.png'
   # Author
   author = "Nanda Bala"
   # Description
-  description = "Highly experienced Engineer with a decade of experience in analysing, designing, developing, and managing applications."
+  description = "Senior DevOps Engineer"
   avatar = 'images/avatar.png'
   # Social links
   [[params.social]]
