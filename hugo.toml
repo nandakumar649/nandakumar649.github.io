@@ -12,23 +12,13 @@ avatar = 'avatar.png'
     name = "Home"
     url = "/"
     weight = 1
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
-  [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
-    weight = 3
 
 [params]
   # Author
   author = "Nandakumar Balasubramaniyam"
   # Description
   description = "Highly experienced Engineer with a decade of experience in analysing, designing, developing, and managing applications."
-  avatar = 'avatar.png'
+  avatar = 'images/avatar.png'
   # Social links
   [[params.social]]
     icon = "brand-github"
