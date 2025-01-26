@@ -38,6 +38,9 @@
             sudo snap install dart-sass
         - name: Checkout
           uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683
+          with:
+            token: ${{ secrets.GITHUB_TOKEN }}
+            submodules: true
         - name: Setup Pages
           id: pages
           uses: actions/configure-pages@983d7736d9b0ae728b81ab479565c72886d7745b
