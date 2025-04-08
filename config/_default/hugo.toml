@@ -18,11 +18,6 @@ ignoreLogs = ['warning-goldmark-raw-html']
     name = "Profile"
     url = "/profile"
     weight = 2
-  [[menu.main]]
-    identifier = "download"
-    name = "Download"
-    url = "files/avatar.pdf"
-    weight = 3
 
 [params]
   # Author
