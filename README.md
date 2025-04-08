@@ -1,7 +1,5 @@
 # Nandakumar Balasubramaniyam
 
-**Address:** 60 Jefferson House, West Drayton, London, UB7 9FL  
-**Phone number:** +44 7438 867 877  
 **E-mail:** nandakumar649@gmail.com  
 
 ## About Me
