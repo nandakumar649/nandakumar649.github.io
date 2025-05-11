@@ -50,8 +50,6 @@ I am confident that my technical acumen, coupled with my strong communication sk
 ## Contact
 
 **Name:** Nandakumar Balasubramaniyam  
-**Address:** 60 Jefferson House, West Drayton, London, UB7 9FL  
-**Phone number:** +44 7438 867 877  
 **E-mail:** nandakumar649@gmail.com  
 **LinkedIn:** [linkedin.com/in/nandakumar-balasubramaniyam](https://www.linkedin.com/in/nandakumar-balasubramaniyam)  
 **GitHub:** [github.com/nandakumar649](https://github.com/nandakumar649)  
